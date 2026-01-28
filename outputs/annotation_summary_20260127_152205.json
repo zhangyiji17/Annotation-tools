@@ -1,0 +1,24 @@
+{
+  "task_type": "目标检测",
+  "total_images": 1,
+  "total_detections": 1,
+  "model_used": "models\\yolo11n.pt",
+  "conf_threshold": 0.25,
+  "detections_by_class": {
+    "train": 1
+  },
+  "annotations": [
+    {
+      "id": "0001",
+      "task_type": "图像任务-目标检测",
+      "image_file": "image_10.1.28.233_auto_186.jpg",
+      "class_id": 6,
+      "class_name": "train",
+      "confidence": "0.3489",
+      "bbox_xyxy": "672,365,2014,794",
+      "bbox_yolo": "0.524632,0.402220,0.523918,0.297712",
+      "annotation_file": "image_10.1.28.233_auto_186.txt",
+      "visualization": "vis_image_10.1.28.233_auto_186.jpg"
+    }
+  ]
+}

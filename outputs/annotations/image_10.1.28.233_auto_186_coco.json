@@ -1,0 +1,25 @@
+{
+  "image_name": "image_10.1.28.233_auto_186.jpg",
+  "image_size": {
+    "width": 2560,
+    "height": 1440
+  },
+  "detections": [
+    {
+      "id": 1,
+      "image_id": "image_10.1.28.233_auto_186.jpg",
+      "category_id": 6,
+      "category_name": "train",
+      "bbox": [
+        672.44189453125,
+        364.84326171875,
+        1341.229736328125,
+        428.7059326171875
+      ],
+      "area": 574993.1449664533,
+      "confidence": 0.3488929271697998,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}

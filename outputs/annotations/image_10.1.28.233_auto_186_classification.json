@@ -1,0 +1,21 @@
+{
+  "image_name": "image_10.1.28.233_auto_186.jpg",
+  "image_size": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_type": "classification",
+  "top_n": 1,
+  "classifications": [
+    {
+      "class_id": 0,
+      "class_name": "train",
+      "confidence": 1.0,
+      "rank": 1,
+      "image_width": 2560,
+      "image_height": 1440,
+      "task_type": "classification",
+      "top_n": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task_type": "图像分类",
+  "total_images": 1,
+  "total_detections": 1,
+  "model_used": "models\\yolo11n.pt",
+  "conf_threshold": 0.25,
+  "detections_by_class": {
+    "train": 1
+  },
+  "annotations": [
+    {
+      "id": "0001",
+      "task_type": "图像任务-图像分类",
+      "image_file": "image_10.1.28.233_auto_186.jpg",
+      "class_id": 0,
+      "class_name": "train",
+      "confidence": "1.0000",
+      "top_n": 1,
+      "annotation_file": "image_10.1.28.233_auto_186_classification.json",
+      "visualization": "vis_image_10.1.28.233_auto_186.jpg"
+    }
+  ]
+}
