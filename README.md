@@ -118,8 +118,9 @@ python main.py 或 python run.py
 ## 📞 联系方式
 如有问题或建议，请通过以下方式联系：
 - 提交 GitHub Issue
-- 项目维护者邮箱：your-email@example.com
+- 项目维护者邮箱：zhangpan17@foxmail.com
 - 项目讨论区：GitHub Discussions
 
 ## ⭐ 支持项目
+
 如果这个项目对您有帮助，请给我们一个 Star！这是对开发者的最大鼓励！
