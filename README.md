@@ -61,8 +61,8 @@
 
 #### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/shanhe-annotation-tool.git
-cd shanhe-annotation-tool
+git clone https://github.com/zhangyiji17/Annotation-tools.git
+cd Annotation-tools
 ```
 
 #### 2. 创建虚拟环境（推荐）
